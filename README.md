@@ -1,7 +1,7 @@
 # SARA
 MVP de un sistema que responde preguntas en base a una tesis
 
-## Requisitos
+## Requisitos Back End
 El sistema requiere la preinstalación de distintos softwares y herramientas.
 
 ### Anaconda
@@ -25,3 +25,22 @@ para una instalación más exacta pueden ejecutar el codigo que brinda la [pági
 ```
 pip install transformers
 ```
+3 Flask
+-
+```
+pip install flask
+```
+4 Flask-cors
+-
+```
+pip install flask-cors
+```
+
+5 PyPDF2
+-
+```
+pip install PyPDF2
+```
+
+## Requisitos Front End
+Para el Front solo es necesario instalar Vue.js.
