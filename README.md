@@ -14,30 +14,27 @@ conda install python=3.6
 Una vez dentro de anaconda se crea un nuevo entorno y la sección Home instalan el CMD o el PowerShell de su entorno creado para instalar las librerias necesarias para este proyecto. En este caso las librerias son:
 
 #### 1 Pytorch
----
 ```
 pip install torch
 ```
 para una instalación más exacta pueden ejecutar el codigo que brinda la [página oficial de Pytorch](https://pytorch.org/)
 
 #### 2 Transformers
--
 ```
 pip install transformers
 ```
+
 #### 3 Flask
--
 ```
 pip install flask
 ```
+
 #### 4 Flask-cors
--
 ```
 pip install flask-cors
 ```
 
 #### 5 PyPDF2
--
 ```
 pip install PyPDF2
 ```
