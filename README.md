@@ -20,23 +20,23 @@ pip install torch
 ```
 para una instalación más exacta pueden ejecutar el codigo que brinda la [página oficial de Pytorch](https://pytorch.org/)
 
-2 Transformers
+#### 2 Transformers
 -
 ```
 pip install transformers
 ```
-3 Flask
+#### 3 Flask
 -
 ```
 pip install flask
 ```
-4 Flask-cors
+#### 4 Flask-cors
 -
 ```
 pip install flask-cors
 ```
 
-5 PyPDF2
+#### 5 PyPDF2
 -
 ```
 pip install PyPDF2
