@@ -14,7 +14,7 @@ conda install python=3.6
 Una vez dentro de anaconda se crea un nuevo entorno y la sección Home instalan el CMD o el PowerShell de su entorno creado para instalar las librerias necesarias para este proyecto. En este caso las librerias son:
 
 1 Pytorch
-- 
+---
 ```
 pip install torch
 ```
