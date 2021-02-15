@@ -3,6 +3,7 @@ MVP de un sistema que responde preguntas en base a una tesis
 
 ## Requisitos Back End
 El sistema requiere la preinstalación de distintos softwares y herramientas.
+Puede ver el cofigo fuente [aquí](https://github.com/PatrickSpace/SARA-API)
 
 ### Anaconda
 Instalar anaconda desde su [página oficial](https://www.anaconda.com/).
@@ -41,3 +42,4 @@ pip install PyPDF2
 
 ## Requisitos Front End
 Para el Front solo es necesario instalar Vue.js.
+Elcodigo fuente se encuentra [aquí](https://github.com/PatrickSpace/SARA-Front)
